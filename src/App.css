@@ -1,3 +1,4 @@
+/* Styling for the App component */
 .App {
   text-align: center;
 }
@@ -22,6 +23,16 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-header h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.App-header p {
+  font-size: 1.5rem;
+  font-style: italic;
 }
 
 .App-link {
