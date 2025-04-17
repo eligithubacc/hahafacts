@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/hahafacts/static/css/main.74864b7e.css",
-    "main.js": "/hahafacts/static/js/main.5b80fb4f.js",
-    "static/js/453.fbdf3374.chunk.js": "/hahafacts/static/js/453.fbdf3374.chunk.js",
+    "main.css": "/hahafacts/static/css/main.da36ed6e.css",
+    "main.js": "/hahafacts/static/js/main.ffeacbf6.js",
     "index.html": "/hahafacts/index.html",
-    "main.74864b7e.css.map": "/hahafacts/static/css/main.74864b7e.css.map",
-    "main.5b80fb4f.js.map": "/hahafacts/static/js/main.5b80fb4f.js.map",
-    "453.fbdf3374.chunk.js.map": "/hahafacts/static/js/453.fbdf3374.chunk.js.map"
+    "main.da36ed6e.css.map": "/hahafacts/static/css/main.da36ed6e.css.map",
+    "main.ffeacbf6.js.map": "/hahafacts/static/js/main.ffeacbf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.74864b7e.css",
-    "static/js/main.5b80fb4f.js"
+    "static/css/main.da36ed6e.css",
+    "static/js/main.ffeacbf6.js"
   ]
 }
